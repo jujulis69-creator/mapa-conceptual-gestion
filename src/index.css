@@ -94,6 +94,16 @@
     inset 0 -2px 4px 0 rgba(15, 23, 42, 0.8);
 }
 
+/* 6. Yellow / Gold Card 3D */
+.card-3d-yellow-gold {
+  background: linear-gradient(145deg, rgba(15, 23, 42, 0.9) 0%, rgba(113, 63, 18, 0.85) 60%, rgba(15, 23, 42, 0.9) 100%);
+  box-shadow:
+    0 14px 30px -8px rgba(234, 179, 8, 0.35),
+    0 0 0 1px rgba(250, 204, 21, 0.5),
+    inset 0 1.5px 1px 0 rgba(254, 240, 138, 0.4),
+    inset 0 -2px 4px 0 rgba(15, 23, 42, 0.8);
+}
+
 .plate-3d {
   background: linear-gradient(145deg, #090d16 0%, #151d2e 50%, #090d16 100%);
   box-shadow:

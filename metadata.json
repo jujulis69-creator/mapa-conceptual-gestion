@@ -1,6 +1,6 @@
 {
-  "name": "Mapa Conceptual: Sistema Documental y SGC",
-  "description": "Mapa conceptual interactivo y pedagógico sobre la Gestión de la Información, Sistema Documental y Sistema de Gestión de la Calidad (ISO 9001).",
+  "name": "El Recurso de la Información: Mapa Conceptual 3D",
+  "description": "Mapa conceptual interactivo y automatizado sobre el capítulo 1 'El recurso de la información' (Diseño de Sistemas de Información: Fundamentos).",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
